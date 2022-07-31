@@ -13,7 +13,7 @@
     "@react-navigation/native": "^6.0.6",
     "@react-navigation/stack": "^5.2.9",
     "add": "^2.0.6",
-    "expo": "^42.0.0",
+    "expo": "^43.0.0",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "react-native": "https://github.com/expo/react-native/archive/sdk-42.0.0.tar.gz",
